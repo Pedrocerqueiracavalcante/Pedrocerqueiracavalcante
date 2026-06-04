@@ -8,7 +8,7 @@ Construo sites, apps e plataformas digitais com frontend, backend, banco de dado
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pedrocerqueiracavalcante-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrocerqueiracavalcante)
 [![Easy Clean](https://img.shields.io/badge/Projeto_Easy_Clean-Online-2d6a2d?style=for-the-badge&logo=cloudflare&logoColor=white)](https://easyclean.cerqueirapedro275.workers.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enviar_link_para_conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](#contacto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrocerq-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocerq/)
 
 </div>
 
@@ -32,7 +32,7 @@ const pedro = {
 - Crio landing pages modernas, responsivas e com boa apresentacao visual.
 - Desenvolvo sistemas com login, area do cliente, dashboard e painel admin.
 - Integro banco de dados, pagamentos, email e WhatsApp.
-- Faço deploy em cloud e preparo projetos para ficarem online.
+- Faco deploy em cloud e preparo projetos para ficarem online.
 - Organizo projetos para serem apresentados no GitHub de forma profissional.
 
 ## Projeto principal
@@ -129,8 +129,8 @@ flowchart LR
 ## Contacto
 
 - GitHub: [@Pedrocerqueiracavalcante](https://github.com/Pedrocerqueiracavalcante)
+- LinkedIn: [linkedin.com/in/pedrocerq](https://www.linkedin.com/in/pedrocerq/)
 - Projeto online: [Easy Clean Luxembourg](https://easyclean.cerqueirapedro275.workers.dev)
-- LinkedIn: envie o link correto para eu conectar aqui.
 
 ---
 
