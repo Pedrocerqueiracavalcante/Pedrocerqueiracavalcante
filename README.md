@@ -107,6 +107,22 @@ Quatro projetos em produção. Um sob manutenção mensal desde maio de 2026.
 
 ---
 
+### 5️⃣ Menuz Ticket — Gestão de Eventos e Bilhetes
+
+**O que é:** Plataforma de gestão de eventos e emissão de bilhetes com agenda dinâmica e apps nativas (iOS/Android).  
+**Funcionalidades:** agenda de eventos, emissão de bilhetes, verificação em tempo real, apps nativas com push notifications, página automática por evento.  
+**Stack:** Next.js 15 · React 18 · TypeScript · Zustand (Web) · Capacitor · iOS · Android (App)  
+**Versões:** PT  
+**Deploy:** Plataforma web em produção · Apps iOS/Android com suporte nativo
+
+<div>
+
+[![Abrir site](https://img.shields.io/badge/Ver_ao_vivo-menuzticket.com-FF5A00?style=for-the-badge)](https://menuzticket.com/)
+
+</div>
+
+---
+
 ## Stack Técnico
 
 ### Frontend
