@@ -18,7 +18,7 @@ Quatro projetos em produção. Um sob manutenção mensal desde maio de 2026.
 ## Trabalho Atual
 
 🎨 **Menuz Barbearias** — Design e novas funcionalidades (PT)  
-🎫 **Menuz Ticket** — Design (PT)
+🎫 **Menuz Ticket** — Design e desenvolvimento (Next.js · React · TypeScript · Capacitor · PT)
 
 ---
 
