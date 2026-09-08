@@ -179,7 +179,7 @@ Quatro projetos em produção. Um sob manutenção mensal desde maio de 2026.
 
 - **Projetos freelance** — Consultoria, desenvolvimento, deploy
 - **Manutenção recorrente** — Correções, updates, otimização
-- **Posição fixa** — Portugal, Luxemburgo, remoto
+- **Posição fixa** — Portugal, Brasil, Luxemburgo, remoto
 
 📧 [cerqueirapedro275@gmail.com](mailto:cerqueirapedro275@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pedrocerq/)  
