@@ -15,6 +15,12 @@ Quatro projetos em produção. Um sob manutenção mensal desde maio de 2026.
 
 ---
 
+## Trabalho Atual
+
+🎨 **Menuz Barbearias** — Evolução de design e novas funcionalidades
+
+---
+
 ## Perfil
 
 ```js
@@ -23,7 +29,7 @@ Quatro projetos em produção. Um sob manutenção mensal desde maio de 2026.
   foco: "Sistemas completos — UI, API, dados, publicação",
   experiencia: "4 projetos em produção, 226+ commits verificados",
   manutencao: "Old School Music desde maio/2026",
-  localizacao: "Portugal e Luxemburgo, ou remoto",
+  localizacao: "Portugal, Brasil, Luxemburgo, remoto",
   disponivel: true
 }
 ```
