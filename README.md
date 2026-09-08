@@ -17,7 +17,8 @@ Quatro projetos em produção. Um sob manutenção mensal desde maio de 2026.
 
 ## Trabalho Atual
 
-🎨 **Menuz Barbearias** — Evolução de design e novas funcionalidades
+🎨 **Menuz Barbearias** — Evolução de design e novas funcionalidades  
+🎫 **Menuz Ticket** — Desenvolvimento e melhorias
 
 ---
 
